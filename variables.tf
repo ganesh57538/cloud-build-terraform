@@ -1,9 +1,9 @@
-variable credentials{
-	default="fourth-physics-260609-b33cc2767c94.json"
-}
+# variable credentials{
+# 	default="fourth-physics-260609-b33cc2767c94.json"
+# }
 
 variable projectName{
-	default="fourth-physics-260609"
+	default="test-89f91"
 }
 
 variable regionName{
@@ -12,6 +12,6 @@ variable regionName{
 variable zoneName{
 	default="asia-south1-c"
 }
-variable pass{
-	default="12345"
-}
+# variable pass{
+# 	default="12345"
+# }
