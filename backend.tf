@@ -1,5 +1,5 @@
 terraform {
   backend "gcs" {
-    bucket = "fourth-physics-2"
+    bucket = "cloud_build_test_bucket1"
   }
 }
